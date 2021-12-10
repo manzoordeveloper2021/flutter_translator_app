@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "632013281507",
+    "project_id": "translator-41d76",
+    "storage_bucket": "translator-41d76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632013281507:android:f1d256cd9724ad9cbbcdd6",
+        "android_client_info": {
+          "package_name": "com.skipeapps.translate.alllanguagetranslator.speaktranslate.cameratranslator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632013281507-979ubhj6hp3enbi0q9qcf0a7k298ck7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYcqnXjoVIM-QVQkSg3cH-6p4ATSvTHDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632013281507-979ubhj6hp3enbi0q9qcf0a7k298ck7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

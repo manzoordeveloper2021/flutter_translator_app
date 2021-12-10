@@ -1,0 +1,25 @@
+Translator 
+
+App Id:ca-app-pub-2636058096681713~5843008910
+
+Banner ads id:
+ca-app-pub-2636058096681713/7331366312
+
+Interstitial ads id:
+ca-app-pub-2636058096681713/3392121305
+
+Native ads id:
+ca-app-pub-2636058096681713/6964518893
+
+
+More Apps
+pub: Skipe Apps
+
+Privacy Policy Link
+https://skipeapps.blogspot.com/2021/02/privacy-policy.html
+
+Packg Id:
+com.skipeapps.translate.alllanguagetranslator.speaktranslate.cameratranslator
+
+app-ads.txt
+google.com, pub-2636058096681713, DIRECT, f08c47fec0942fa0
